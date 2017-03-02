@@ -79,7 +79,7 @@ public class BuildParameters
     {
         get 
         {
-            return "./build-results/v" + SemVersion + "/";
+            return "./build-results/";
         }
     }
 
